@@ -41,7 +41,7 @@ Welcome to my GitHub profile. I’m a software engineer and full stack developer
        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>   
    </a>
   <a href="https://github.com/diresaman">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/dires318?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"  target="_blank"/>
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/diresaman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"  target="_blank"/>
   </a>
 </p>
 
